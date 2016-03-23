@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cherry</string>
+    <string name="title_activity_generate">GenerateActivity</string>
+    <string-array name="words">
+        <item>哥们儿，麻烦让一下，你挡着我的手机信号了。</item>
+        <item>真羡慕你啊，这么小就有一个这么成功的老爸。</item>
+        <item>哎呦，您这么忙还亲自上厕所啊.？</item>
+        <item>你的愚蠢总是那么富有创造力。</item>
+        <item>来到这世上，我就没打算活着回去！</item>
+        <item>孩子，人傻不能复生啊！</item>
+        <item>自从得了神经病，整个人都精神多了。</item>
+        <item>不能因为我俩有过节，你就把我当节过。</item>
+        <item>我这人不懂音乐，所以时而不靠谱，时而不着调。</item>
+        <item>你给我滚，马不停蹄地滚！</item>
+    </string-array>
+    <string name="ssdk_qq">QQ</string>
+    <string name="ssdk_qzone">QQ空间</string>
+    <string name="ssdk_sinaweibo">新浪微博</string>
+    <string name="ssdk_tencentweibo">腾讯微博</string>
+    <string name="ssdk_wechat">微信</string>
+    <string name="ssdk_wechatfavorite">微信收藏</string>
+    <string name="ssdk_wechatmoments">朋友圈</string>
+</resources>

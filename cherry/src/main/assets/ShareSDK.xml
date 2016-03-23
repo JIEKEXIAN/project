@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DevInfor>
+    <ShareSDK AppKey="1037392e70898" />
+    <SinaWeibo AppKey="3516033096" AppSecret="12d8251bcabcfa6328c332fdf25be951" Enable="true" Id="1"
+        RedirectUrl="http://cherry102.leanapp.cn/" ShareByAppClient="true" SortId="1" />
+    <Wechat AppId="wxbed73f13091f814f" AppSecret="42d7d668aacabae42fc86cb58fadfe9d"
+        BypassApproval="false" Enable="true" Id="2" SortId="2" />
+    <QQ AppId="1105237968" AppKey="e5WYDmsSbZ44nnOV" Enable="true" Id="3" ShareByAppClient="true"
+        SortId="3" />
+    <QZone AppId="1105237968" AppKey="e5WYDmsSbZ44nnOV" Enable="true" Id="4" ShareByAppClient="true"
+        SortId="4" />
+    <TencentWeibo AppKey="1105237968" AppSecret="e5WYDmsSbZ44nnOV" Enable="true" Id="5"
+        RedirectUri="http://cherry102.leanapp.cn/" SortId="5" />
+
+    <WechatMoments AppId="wxbed73f13091f814f" AppSecret="42d7d668aacabae42fc86cb58fadfe9d"
+        BypassApproval="false" Enable="true" Id="6" SortId="6" />
+
+    <WechatFavorite AppId="wxbed73f13091f814f" AppSecret="42d7d668aacabae42fc86cb58fadfe9d"
+        Enable="true" Id="7" SortId="7" />
+</DevInfor>
